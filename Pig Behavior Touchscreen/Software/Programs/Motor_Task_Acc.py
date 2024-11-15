@@ -1,3 +1,10 @@
+#Software is provided and licensed under the CC-BY-NC 4.0 license: https://creativecommons.org/licenses/by-nc/4.0/. 
+#This means that you can use, adapt, and share so long as you provide attribution. 
+#However, commercial uses are not permitted. 
+#This software was developed by Dr. Vonder Haar. Please attribute to him and provide a citation to published work or this GitHub, as appropriate. 
+#For commercial use, please contact Dr. Vonder Haar for licensing options. Generally, use for small-scale research will be made free of charge.
+
+
 from tkinter import *
 import tkinter as tk  # for GUI
 import glob, os, random, sys, time  # glob is for packing together file names, sys is for exiting cleanly
